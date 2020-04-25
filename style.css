@@ -1,0 +1,707 @@
+body {
+background-color:lightgrey;
+
+}
+.logotop {
+	background-color:#003152;
+	border: 0px solid pink;
+	text-decoration: none;
+	text-align: center;
+	padding-right: 30px;
+	padding-left: 30px;
+	
+}
+.logoimg {
+	background: #003152;
+	margin:auto;
+	text-align: center;
+	padding-top: 10px;
+	border: 0px solid green;
+	
+}
+#logo {
+	color:white;
+	font-family:AR BERKLEY;
+	background-color: #003152;
+	text-decoration: none;
+	font-size: 44px;
+	border: 0px solid orange;
+}
+
+
+
+#logo:hover{
+	color: #008081;
+	text-decoration:none;
+}
+
+#logocup{
+	border: 0px solid pink;
+}
+
+
+
+@media screen and (max-width: 700px) {
+#logocup { width: 15%;
+height: 15%;
+
+  }
+}
+
+
+
+
+
+.container {
+	background-color: none;
+	border: 6px solid white;
+	
+}
+
+.a {
+	text-decoration:none;
+}
+h3 {
+	text-align: center;
+	color:white;
+	font-family:AR BLANCA;
+	background-color: #003152;
+	font-size: 46px;
+	text-decoration:none;
+	text-decoration-line:none;
+	border: 0px solid red;
+	margin-top: 60px;
+	
+	
+}
+h3:hover {
+	color:  #008081;
+	text-decoration:none;
+}
+
+h6 {
+	color: white;
+	font-family:Century Gothic;
+}
+h2 {
+
+	text-align: center;
+	color:white;
+	font-family:AR BERKLEY;
+	text-decoration: none;
+	padding-top: 40px;
+	font-size: 86px;
+	
+}
+
+.middle {
+	border: 0px solid white;
+}
+
+.thirdp {
+	height: 200px;
+	/** background-color:yellow;
+	background-image: url(".jpg"); */
+	background-color: #003152;
+	opacity: 50%;
+}
+.thirdp img {
+	width: 100%;
+	object-fit: contain;
+	
+}
+
+.footer {
+	min-height: 160px;
+	background-color: #003152;
+	
+}
+.footerbox {
+	margin: auto;
+	max-width: 40%;
+	text-align:center;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+.middleabout {
+	background-color: #003152;
+	opacity: 80%;
+	
+	
+	margin: auto;
+	border: 0px solid red;
+
+}
+.middleabout1 {
+	border: 0px solid red;
+	margin: 50px auto;
+	padding: 40px;
+	max-width: 85%;
+	text-align:center;
+	font-family: Verdana;
+	font-size: 18px;
+	text-align: justify;
+	color: white;
+	background-color: #008081;
+	border-radius:25px;
+	
+	
+}
+#ourstory {
+	text-align: center;
+	font-size: 46px;
+	margin: 20px auto;
+	font-weight: bold;
+	font-family:AR BERKLEY;
+	color: white;
+}
+
+.coffeecon {
+	width: 70%;
+	margin: auto;
+	border: 0px solid red;
+	padding: 20px;
+}	
+#frame {
+	border: 4px solid black;
+	margin: 10px auto;
+	text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+#frame { width: 80%;
+height: 80%;
+
+  }
+}
+
+#frame1 {
+	border: 0px solid green;
+	margin: auto;
+	text-align: center;
+}
+.block {
+	display: block;
+	min-height: 200px;
+	background-color: #003152;
+	opacity: 70%;
+	
+}
+.download {
+	margin:  auto;
+	background-color:  #008081;
+	text-align:center;
+	padding: 10px;
+	width: 60%;
+	border-radius: 10px;
+	opacity: none;
+
+	
+	
+}
+
+.download p {
+	color:white;
+	font-family:AR BERKLEY;
+	text-align: center;
+	text-decoration: none;
+	min-width: 60%;
+	font-size: 46px;
+	
+	
+}
+
+.pdf {
+	background-color: #003152;
+	opacity: 75%;
+	min-height: 150px;
+	padding-top: 25px;
+
+	
+	
+}
+.menumiddle {
+	background-color: #003152;
+	opacity: 85%;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.menucol {
+	width: 70%;
+	background-color:  #008081;
+	margin: auto;
+	opacity: 1;
+	text-align: justify;
+	border-radius: 10px;
+}
+
+.menutable th {
+	text-align: center;
+	color: #000152;
+	font-family:AR BERKLEY;
+	text-align: right;
+	text-decoration: none;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	font-size: 36px;
+	
+	
+}
+.menutable tr td{
+	text-align: justify;
+	margin: 20px;
+	width: 1000px;
+	color: white;
+	padding-left: 20%;
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	
+}
+
+/* here starts contacts-----------------MAP---------- */
+
+
+
+.mapframe {
+	width: 80%;
+	margin: auto;
+	
+	opacity: 1;
+}
+.mapframe table{
+	width: 100%;
+	
+} 
+.mapframe tr {
+	
+	
+}
+#map {
+
+	border: 2px solid black;
+	text-align: center;
+	width: 500px;
+	margin: 5px auto;
+	
+
+}
+
+@media screen and (max-width: 1300px) {
+#map { width: 80%;
+margin: 5px auto;
+text-align: center;
+  }
+}
+
+@media screen and (max-width: 700px) {
+#map { width: 70%;
+margin: 5px auto;
+text-align: center;
+  }
+}
+
+#where {
+	font-size: 56px;
+	padding-bottom: 10px;
+}
+
+#black {
+
+	text-align: center;
+	width: 70%;
+	color: white;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Verdana;
+	background-color: #008081;
+	opacity: 1;
+	border-radius: 25px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	margin: 5px auto;	
+}
+
+
+.con {
+
+	padding-bottom: 30px;
+	padding-top: 30px;
+	text-align: center;
+	margin: auto;
+	text-align: center;
+	
+}
+#con1 {
+	margin: auto;
+	text-align: center;
+}
+#pp{
+	text-decoration: underline;
+	font-size: 14px;
+}
+
+
+.where1{
+	background-color: #003152;
+	opacity: 90%;
+}
+#contable {
+	margin: auto;
+	text-align:center;
+}
+
+
+
+/* ---------------contacts form stuff----------------- */
+
+
+
+input {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 10px;
+  
+  
+}
+
+
+.mesdiv {
+	background-color: #003152;
+	opacity: 90%;
+}
+ #mess {
+	padding: 2px;
+	width: 100%;
+	height: 160px;
+	 box-sizing: border-box;
+	 
+}
+
+input[type=submit] {
+  background-color: #125486;
+  color: white;
+  width: 30%;
+  margin-top: 40px;
+ 
+  
+  
+  
+}
+
+label {
+	text-align: center;
+	color:white;
+	font-family:AR BERKLEY;
+	font-size: 26px;
+	
+	
+}
+
+.cont {
+	width: 70%;
+  background-color: #008081;
+  padding: 40px;
+  margin: 25px auto;
+  border-radius: 20px;
+  
+}
+
+
+#myDIV {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 5px;
+  color:white;
+  font-family:AR BLANCA;
+  font-size: 26px;
+  display: none;
+  
+}
+  .msg {
+	   width: 100%;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 5px;
+  color:white;
+  font-family:AR BERKLEY;
+  font-size: 66px;
+	  
+  }
+  
+  
+  /* -----------faq part ---------------------------------*/
+  .faqwrap{
+	  width: 65%;
+	  color: white;
+	  font-size: 16px;
+	  margin: auto;
+	  border: px solid red;
+	  min-height: 100%;
+  }
+  
+  #faqtop {
+	  border: 0px solid #586666;
+	  background-color: #008081;
+	  border-radius: 20px;
+	  text-align: center;
+	  min-height: 80px;
+	  margin-top: 18px;
+	  padding-top: 20px;
+	  font-family: Verdana;
+	  font-size: 22px;
+  }
+  
+
+
+    @media screen and (max-width: 1200px) {
+.qqq { 
+
+padding-left: 20%;
+padding-right: 20%;
+
+  }
+}
+  
+  
+  #faqbottom1 {
+	  display: none;
+	  border: 4px solid #586666;
+	  background-color: #89b0b0;
+	  text-align: center;
+	  border-radius: 20px;
+	  text-align: center;
+	  min-height: 100px;
+	  margin-top: 5px;
+	  padding-top: 18px;
+	  font-family: Verdana;
+	  font-size: 18px;
+	  padding-left: 20px;
+	  padding-right: 20px;
+	  padding-bottom:10px;
+	
+	  
+  }
+  
+   #faqbottom2 {
+	  display: none;
+	  border: 4px solid #586666;
+	  background-color: #89b0b0;
+	  text-align: center;
+	  border-radius: 20px;
+	  text-align: center;
+	  min-height: 300px;
+	  margin-top: 15px;
+	  padding-top: 18px;
+	  font-family: Verdana;
+	  font-size: 20px;
+	  padding-bottom: 10px;
+  }
+   #faqbottom3 {
+	  display: none;
+	  border: 4px solid #586666;
+	  background-color: #89b0b0;
+	  text-align: center;
+	  border-radius: 20px;
+	  min-height: 220px;
+	  margin-top: 5px;
+	  padding-top: 18px;
+	  font-family: Verdana;
+	  font-size: 20px;
+	  padding-left: 15px;
+	  padding-right: 15px;
+	  padding-bottom: 10px;
+  }
+ #lavazza {
+	 border: 2px solid black;
+	 border-radius: 10px;
+	 width: 45%;
+	 margin-top: 20px;
+	 margin-bottom: 12px;
+ }
+   #faqbottom4 {
+	  display: none;
+	  border: 4px solid #586666;
+	  background-color: #89b0b0;
+	  text-align: center;
+	  border-radius: 20px;
+	  text-align: center;
+	  min-height: 100px;
+	  margin-top: 5px;
+	  padding-top: 18px;
+	  font-family: Verdana;
+	  font-size: 20px;
+	  text-decoration: none;
+	   padding-left: 20px;
+	  padding-right: 20px;
+	  padding-bottom: 8px;
+  }
+   #faqbottom5{
+	  display: none;
+	  border: 4px solid #586666;
+	  background-color: #89b0b0;
+	  text-align: center;
+	  border-radius: 20px;
+	  text-align: center;
+	  min-height: 220px;
+	  margin-top: 5px;
+	  padding-top: 15px;
+	  padding-bottom:15px;
+	  font-family: Verdana;
+	  font-size: 20px;
+	     padding-left: 15px;
+	  padding-right: 15px;
+
+  }
+   #faqbottom6{
+	  display: none;
+	  border: 4px solid #586666;
+	  background-color: #89b0b0;
+	  text-align: center;
+	  border-radius: 20px;
+	  text-align: center;
+	  min-height: 80px;
+	  margin-top: 5px;
+	  padding-top: 18px;
+	  font-family: Verdana;
+	  font-size: 20px;
+	   padding-left: 20px;
+	  padding-right: 20px;
+  }
+  
+    #faqbottom7{
+	  display: none;
+	  border: 4px solid #586666;
+	  background-color: #89b0b0;
+	  text-align: center;
+	  border-radius: 20px;
+	  text-align: center;
+	  min-height: 300px;
+	  margin-top: 5px;
+	  padding-top: 18px;
+	  font-family: Verdana;
+	  font-size: 20px;
+	   padding-left: 20px;
+	  padding-right: 20px;
+  }
+   #arrow {
+	  float: right;
+	  margin-right: 8px;
+  }
+  
+  #faqtitle {
+	  color:white;
+	font-family:AR BERKLEY;
+	text-align: center;
+	text-decoration: none;
+	margin: auto;
+	font-size: 46px;
+  }
+   #faqtitle:hover {
+	   color:  #89b0b0;
+	   
+	   
+   }
+   
+      /* ---------------modal phhoto -------------------------------- */
+	  
+	  
+.modalphoto {
+	background-color: 003152;
+	opacity: 0.9;
+}
+
+.modalwrap {
+	width: 80%;
+}
+   /* ---------------modal phhoto -------------------------------- */
+   
+   
+   
+   #myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+
+  background-color: rgba(0,128,129); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+
+
+/* Add Animation */
+.modal-content, #caption {  
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)} 
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: white;
+  font-size: 150px;
+  font-weight: bold;
+ 
+}
+
+.close:hover,
+.close:focus {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+  
